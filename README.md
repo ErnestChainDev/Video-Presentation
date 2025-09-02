@@ -8,19 +8,22 @@ It includes the recorded video file along with supporting documentation.
 ## 📂 Project Structure
 
 
-# Initialize Git
-git init
+# Git Clone
+git clone
+# git clone (replace with your link)
+git clone https://github.com/ErnestChainDev/Video-Presentation.git
 
-# Add remote repo (replace with your link)
-git remote add origin https://github.com/ErnestChainDev/Video-Presentation.git
+# Change Directory file
+cd Video-Presentation
 
-# Add all files
-git add .
+# Git Install
+git install
 
-# Commit changes
-git commit -m "Initial commit with video presentation"
+# Tracking The Large file
+git lfs track "*.mp4"
 
-# Push to GitHub
-git branch -M main
+# Commit
+git commit -m "Add video with Git LFS"
 
-git push -u origin main
+# Push to Github
+git push origin main

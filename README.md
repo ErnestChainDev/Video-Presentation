@@ -4,7 +4,10 @@ This repository contains the video presentation for **Over View of the SE1**.
 It includes the recorded video file along with supporting documentation.
 
 ---
+# A Centralized Web-based Management System for Enhancing Streamlined Volunteer Engagement
 
+## Team Members
+Alexis Jaso | Ernest windel Dreo | Nova Baldres
 ## 📂 Project Structure
 
 
